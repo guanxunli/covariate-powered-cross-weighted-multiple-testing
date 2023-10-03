@@ -14,7 +14,6 @@ Imports:
     fdrtool,
     adaptMT,
     IHW,
-    CARS,
     np
 Suggests: 
     testthat,
